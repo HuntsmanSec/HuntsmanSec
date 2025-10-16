@@ -25,9 +25,9 @@ I'm **[`Huntsman`](https://tryhackme.com/p/HuntsmanSec)**, a Threat Hunter & Sec
 - **Name**: Rikz Mondia
 - **From**: Zamboanga City, Philippines 
 - _Threat Hunter by Day, Pentester by Night_
-- 2+ years experience in Managed Detection and Response
+- 7 years experience in IT Operations and Network Security | 2+ years experience in Managed Detection and Response | Cybersecurity Instructor 
 - Lifelong learner — always exploring **everything**
-- Reach me out at **huntsmansec@proton.me**
+- Connect with me thru **huntsmansec@proton.me**
 
 </details>
 <br>
@@ -107,7 +107,7 @@ I'm **[`Huntsman`](https://tryhackme.com/p/HuntsmanSec)**, a Threat Hunter & Sec
   <a href="https://medium.com/@huntsmansec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=orange&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-  <a href="https://tryhackme.com/p/huntsman.pwn" target="_blank">
+  <a href="https://tryhackme.com/p/HuntsmanSec" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=red&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
