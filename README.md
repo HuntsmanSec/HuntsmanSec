@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Huntsman`](https://tryhackme.com/p/HuntsmanSec)**, a Threat Hunter & Security Researcher. With a strong passion for technology and expertise in Security Operations, Digital Forensics & Incident Response, VAPT and  part time Bug Hunter. With a goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Huntsman`](https://tryhackme.com/p/HuntsmanSec)**, a Threat Hunter & Security Researcher. With a strong passion for technology and proficiency in Security Operations, Digital Forensics & Incident Response, VAPT and  part time Bug Hunter. With a goal is to safeguard digital assets and contribute to a more secure online community.
 
 <details>
   <summary>More about me</summary>
