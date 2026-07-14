@@ -1,6 +1,4 @@
 
-# <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p align="center"><img src="https://github.com/user-attachments/assets/3edc57fd-31af-4653-b946-3d7f7823cdda" width="100%" height="auto"/></p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -25,7 +23,7 @@ I'm **[`Huntsman`](https://tryhackme.com/p/HuntsmanSec)**, a Threat Hunter & Sec
 - **Name**: Rikz Mondia
 - **From**: Zamboanga City, Philippines 
 - _Threat Hunter by Day, Pentester by Night_
-- 7 years experience in IT Operations and Network Security | 2+ years experience in Managed Detection and Response | Cybersecurity Instructor 
+- 7 years experience in IT Operations and Network Security | 3+ years experience in Managed Detection and Response | Cybersecurity Instructor 
 - Lifelong learner — always exploring **everything**
 - Connect with me thru **huntsmansec@proton.me**
 
